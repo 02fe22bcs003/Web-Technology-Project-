@@ -32,15 +32,6 @@
 3. Configure backend database settings in `config.php`.
 4. Start a local server and access the application via `http://localhost/EventSphere`
 
-## 🤝 Contributing
-We welcome contributions! Please follow our [Contribution Guidelines](CONTRIBUTING.md).
-
-## 📄 License
-This project is licensed under the MIT License.
-
-## 📧 Contact
-For any inquiries, reach out at [youremail@example.com](mailto:youremail@example.com).
-
 ---
 **EventSphere** – Simplifying event registration and management for everyone.
 
